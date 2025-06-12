@@ -1,0 +1,19 @@
+.first{
+    background-color:rgb(241, 191, 191);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#one {
+    background-color:rgb(21, 21, 238);
+    font-size: 36px;
+}
+
+.first.one {
+    font-size: 24px;
+}
+
+#two {
+    background-color:rgb(153, 223, 153);
+    font-size: 24px;
+    font-weight: bold;
+}
